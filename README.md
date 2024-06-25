@@ -53,20 +53,8 @@ The Personal Finance Tracker is a Python-based application designed to help user
 4. Enter the amount (e.g., `100`).
 5. Click "Add Transaction".
 
-### Generating a Report
-1. Click "Generate Report".
-2. A pie chart will be displayed showing the distribution of expenses by category.
-
-## Future Enhancements
-- **Mobile Version**: Develop a mobile version for on-the-go tracking.
-- **Advanced Analytics**: Integrate machine learning for predictive analytics.
-- **Multi-User Support**: Allow multiple user accounts with separate data tracking.
-
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
-For questions or suggestions, please contact [your_email@example.com].
+For questions or suggestions, please contact ckiep16@gmail.com].
